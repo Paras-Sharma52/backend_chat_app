@@ -1,0 +1,14 @@
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\model\User.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\model\ChatRoom.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\model\Message.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\controller\AuthController.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\ChatApplication.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\service\UserService.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\controller\MessageController.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\service\MessageService.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\repository\ChatRoomRepository.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\config\JwtUtil.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\config\WebSocketConfig.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\config\SecurityConfig.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\repository\MessageRepository.java
+C:\Users\rohit\chat-app\backend\src\main\java\com\chatapp\repository\UserRepository.java
